@@ -4,6 +4,8 @@
   "description": "This project is meant to be used to create react-redux applications. Its a very minimal project containing some of the most used redux packages and react.",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server",
+    "bundle": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "vriveras",

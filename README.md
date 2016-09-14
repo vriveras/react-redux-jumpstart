@@ -10,6 +10,9 @@ I wanted to create a simple project that I could use to experiment with react id
 ## Reference
 The project assumes you have npm and node installed. It also take some dependencies in other dev packages here is the full list.
 
+To start the project: **npm start**
+To publish the bundle to the app directory: **npm run bundle**
+
 ```javascript
 [
 "devDependencies": {
