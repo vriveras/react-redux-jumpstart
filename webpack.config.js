@@ -3,8 +3,8 @@ module.exports = {
     './src/index.js'
   ],
   output:{
-    path:__dirname,
-    filename: 'app/js/main.js'
+    path:__dirname+'\\app',
+    filename: 'js/main.js'
   },
   module:{
     loaders:[{
